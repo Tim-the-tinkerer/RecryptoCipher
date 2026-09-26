@@ -74,6 +74,8 @@ A code may be written `4.2.1`, `4-2-1`, `4·2·1`, `421`, or as three separate d
 
 ## Method
 
+The byte layout, the three streams, and a pinned sheet are in [format.md](format.md).
+
 The deck is the 24 codes of three different digits from 1 to 4, generated in the same order as the table: `1.2.3` first, `4.3.2` last.
 
 The screen is the four words after the table’s folding (case and accents dropped, punctuation turned into spaces), joined by the unit separator U+001F.
